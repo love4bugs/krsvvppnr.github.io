@@ -1,5 +1,1 @@
-Name of the Student: K R S V V P P Narasa Reddy
-Roll Number: 20MCMI01
-Mobile Number: 8333945905
-Email ID: sainarasareddy@gmail.com                                                          
-Date and Time of Submission: 11/12/2020, 10:30 PM
+Name of the Student: K R S V V P P Narasa Reddy                                                                                                                                 Roll Number: 20MCMI01                                                                                                                                                         Mobile Number: 8333945905                                                                                                                                                      Email ID: sainarasareddy@gmail.com                                                                                                                                              
